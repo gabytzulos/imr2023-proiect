@@ -2,6 +2,15 @@
 
 ## Bortos Alexandru Daniel, Luciu Gabriel, Pantiru Diana Georgiana
 
+### Week 10
+
+- Added our 3D models in unity
+- Added third party 3D models
+- Built a few scenes
+- Generated image targets for each model
+- Built apk to test
+- Video demo: https://www.youtube.com/shorts/5pBxDOI5xgw
+
 ### Week 7 
 Demo: https://youtu.be/V1oD-oMh0lk
 
