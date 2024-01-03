@@ -2,6 +2,12 @@
 
 ## Bortos Alexandru Daniel, Luciu Gabriel, Pantiru Diana Georgiana
 
+### Week 12
+- UI: Added main menu scene, added scanning scene header
+- Added more sounds for the animals
+- Continued drawing the illustrations for the book https://docs.google.com/document/d/1UfyiuKpwFMhQw56FyVYse-ghFyWyz1_LZGp0ELthI2M/edit?usp=sharing
+- Video demo: https://www.youtube.com/watch?v=oioXPDdk5Ik&ab_channel=GabrielLuciu
+
 ### Week 11
 
 - Added more 3D models
