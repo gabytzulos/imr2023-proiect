@@ -2,6 +2,15 @@
 
 ## Bortos Alexandru Daniel, Luciu Gabriel, Pantiru Diana Georgiana
 
+### Week 11
+
+- Added more 3D models
+- Added sound effects
+- Wrote first story draft https://docs.google.com/document/d/1BMpUm_6BZeyRbXbewqU9RyYEzSABR4M2hrPZcooYSI0/edit
+- Started drawing the illustrations https://docs.google.com/document/d/1UfyiuKpwFMhQw56FyVYse-ghFyWyz1_LZGp0ELthI2M/edit?usp=sharing
+- Built apk to test
+- Video demo: https://youtu.be/H-ztgi_FKyc
+
 ### Week 10
 
 - Added our 3D models in unity
