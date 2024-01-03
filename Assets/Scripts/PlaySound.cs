@@ -6,7 +6,7 @@ public class PlaySound : MonoBehaviour
 {
     private AudioSource audioSource;
     private bool isPlaying = false;
-    private float delayBetweenSounds = 5f;
+    public float delayBetweenSounds = 5f;
 
     void Start()
     {
